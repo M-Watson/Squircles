@@ -1,0 +1,11 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="SideOffset">16dp</dimen>
+    <dimen name="VertOffset">8dp</dimen>
+
+    <!-- Mainly for Logo Stuff -->
+    <dimen name="LogoVertOffset">180dp</dimen>
+    <dimen name="LogoSideOffset">25dp</dimen>
+</resources>

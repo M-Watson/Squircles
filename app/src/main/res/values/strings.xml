@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Squircles</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="cumulative_score">cumulative_score</string>
+    <string name="high_score">high_score</string>
+    <string name="banner_ad_unit_id">ca-app-pub-4377166512867255/3318250925</string>
+    <!-- THE FAKE ONE <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string> -->
+    <!-- REAL ONE <string name="banner_ad_unit_id">ca-app-pub-4377166512867255/3318250925</string> -->
+
+    </resources>

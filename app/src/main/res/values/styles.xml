@@ -1,0 +1,19 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+    </style>
+
+    <!-- Change button font -->
+    <style name="AppTheme.ButtonFont">
+        <!-- <item name="android:textSize">34sp</item> -->
+        <item name="android:textColor">#00000000</item>
+    </style>
+
+    <!-- Change instruction and counter font -->
+    <style name="AppTheme.MainFont">
+        <item name="android:textSize">34sp</item>
+        <item name="android:textColor">#8A000000</item>
+    </style>
+</resources>
